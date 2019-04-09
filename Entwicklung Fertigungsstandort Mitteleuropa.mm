@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1547323094419" ID="ID_9932054" MODIFIED="1547323124302" TEXT="Entwicklung Fertigungsstandort Mitteleuropa">
-<node CREATED="1547323136843" ID="ID_1086932538" MODIFIED="1547323141538" POSITION="right" TEXT="Digitalisierung">
+<node CREATED="1547323094419" ID="ID_9932054" MODIFIED="1554793985273" TEXT="Entwicklung Fertigungsstandort">
+<node CREATED="1547323136843" ID="ID_1086932538" MODIFIED="1554793995936" POSITION="right" TEXT="Digitale Produktion">
 <node CREATED="1547323597720" ID="ID_422051831" MODIFIED="1547504131255">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -434,7 +434,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1547323748361" ID="ID_59032759" MODIFIED="1547323767064" POSITION="left" TEXT="Vorgehensweise">
+<node CREATED="1547323748361" FOLDED="true" ID="ID_59032759" MODIFIED="1554793741929" POSITION="left" TEXT="Vorgehensweise">
 <node CREATED="1547326919176" ID="ID_958951678" MODIFIED="1547326926790" TEXT="Gesch&#xe4;ftsprozesse">
 <node CREATED="1547326944352" ID="ID_1424694398" MODIFIED="1547327837355" TEXT="Ausgangsbasis analysieren">
 <node CREATED="1547326966116" ID="ID_1073723714" MODIFIED="1547404614785" TEXT="Ausrichtung an Gesch&#xe4;ftszielen">
