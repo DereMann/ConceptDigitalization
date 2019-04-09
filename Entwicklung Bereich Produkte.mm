@@ -41,7 +41,7 @@
 </html></richcontent>
 <node CREATED="1554794414381" ID="ID_166059448" MODIFIED="1554795412019" TEXT="Strukturierte Darstellung - siehe Zieleexcel"/>
 </node>
-<node CREATED="1554795311247" FOLDED="true" ID="ID_1890176027" MODIFIED="1554795607963" TEXT="Zusammen an den Themen arbeiten">
+<node CREATED="1554795311247" ID="ID_1890176027" MODIFIED="1554797585874" TEXT="Zusammen an den Themen arbeiten">
 <node CREATED="1554795342245" ID="ID_1210062547" MODIFIED="1554795363224">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -74,12 +74,30 @@
 </node>
 </node>
 </node>
-<node CREATED="1554794220868" ID="ID_1500363507" MODIFIED="1554795523416" POSITION="right" TEXT="Was tun wir heute?">
-<node CREATED="1554795526166" ID="ID_1247808817" MODIFIED="1554795533434" TEXT="Was tun wir heute?"/>
+<node CREATED="1554794220868" ID="ID_1500363507" MODIFIED="1554797873011" POSITION="right" TEXT="Was tun wir heute?">
+<node CREATED="1554795526166" ID="ID_1247808817" MODIFIED="1554795741286">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Was tun wir heute?
+    </p>
+    <p>
+      Welchen Wert liefern wir dem Kunden?
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1554794254916" ID="ID_589854360" MODIFIED="1554794260278" TEXT="Was k&#xf6;nnen wir gut?"/>
 <node CREATED="1554794228428" ID="ID_398972708" MODIFIED="1554794253352" TEXT="Wo sind unsere Painpoints?"/>
 </node>
-<node CREATED="1554791393818" FOLDED="true" ID="ID_932558531" MODIFIED="1554795520675" POSITION="right">
+<node CREATED="1554796039882" ID="ID_285555301" MODIFIED="1554797412592" POSITION="right" TEXT="Wo wollen wir hin?">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1554791393818" FOLDED="true" ID="ID_932558531" MODIFIED="1554807345162" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
